@@ -1,0 +1,96 @@
+body, p{
+ font-family: nobile;
+ font-size:100%;
+ line-height:130%;
+}
+
+.page-header{
+ padding-bottom:5px
+}
+
+.brand, h1{
+ font-family: cookie;
+}
+
+
+.navbar  .brand {
+ font-size:150%;
+ Line-height:20px;
+}
+
+.hero-unit{
+ padding:30px;
+ margin:30px 200px;
+ background-color:white;
+} 
+
+#tout{
+ border-top:solid 1px lightgrey;
+ padding-top:20px;
+ background-image:url(../images/bg.png);
+ background-repeat:repeat-x;
+}
+
+#tout .container{
+ margin:0 auto;
+}
+
+.sidebar h2{
+ margin-bottom:15px;
+}
+
+.footer{
+ margin:30px 0 0 0;
+ padding:10px 50px;
+ border-top:1px solid #ebebeb;
+}
+
+.categorie{
+ margin-top:5px;
+ height:140px;
+ margin-bottom:5px;
+ Padding:5px;
+ border:1px solid lightgrey;
+}
+
+.clear{
+ clear:both
+}
+ 
+/*=Titre*/
+h1,h2,h3,h4,h5,h6{margin-top:20px;font-weight:bold;color:#333333;text-rendering:optimizelegibility;}h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:normal;color:#999999;}
+h1{margin-top:40px;font-size:30px;line-height:36px;}h1 small{font-size:18px;}
+h2{color:#444444;margin-top:35px;font-size:28px;line-height:36px;}h2 small{font-size:18px;}
+h3{color:#777777;margin-top:100px;line-height:27px;font-size:26px;}h3 small{font-size:14px;}
+h4,h5,h6{line-height:24px;}
+h4{margin:50px 0 0 5px;color:#aaaaaa;font-size:22px;}h4 small{font-size:12px;}
+h5{margin:30px 0 0 10px;color:#bbbbbb;font-size:20px;}
+h6{margin:20px 0 0 15px;color:#cccccc;font-size:14px;text-transform:uppercase;}
+h2.normal{margin:0;font-size:24px;line-height:36px;}h2 small{font-size:18px;}
+h3.normal{margin:0;line-height:27px;font-size:18px;}h3 small{font-size:14px;}
+h4.normal{margin:0;font-size:14px;line-height:18px}h4 small{font-size:12px;}
+
+/*=Quote*/
+blockquote{font-family:Satisfy;font-size:130%;padding:0 0 0 15px;margin:20px 100px 18px 50px;border-left:15px solid #eeeeee;}
+
+/*=Liste*/
+ul,ol{padding:0;margin:0 0 9px 25px;}
+ul ul,ul ol,ol ol,ol ul{margin-bottom:0;}
+ul{list-style:disc;}
+ol{list-style:decimal;}
+li{line-height:130%;}
+.rang1{margin:15px 0 5px 0;}
+.rang2
+ol li.lesdix{margin:0 0 0 30px;}
+
+.marge{margin-left:solid 1px grey;}
+
+.resultat{height:28px;background-color:#eeeeee;border-radius:5px;vertical-align:50%; border:1px solid #dddddd; margin: 10px 5px}
+.resultat div{vertical-align:50%;margin:0 0 0 2px;padding:0 0 0 3px;position:relative}
+.resultat div p{line-height:20px;vertical-align:middle;}
+.lien_r{float:right;margin-top:-1px;border-radius:0;}
+.texte_r{padding-top:3px;font-weight:400;}
+.site{padding-top:3px; font-weight:bold;}
+
+
+
